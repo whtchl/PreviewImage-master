@@ -1,0 +1,13 @@
+<resources>
+    <color name="preview_colorPrimary">#f9fbfc</color>
+    <color name="preview_colorPrimaryDark">#dcddde</color>
+    <color name="preview_colorAccent">#08dcf4</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="color_preview_bg">#83111313</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent_overlay">#30000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_white">#0effffff</color>
+
+</resources>

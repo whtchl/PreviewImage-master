@@ -1,0 +1,7 @@
+<resources>
+    <string name="title_activity_preview">图片预览</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="str_download">下载图片</string>
+    <string name="str_origin">查看原图</string>
+</resources>
